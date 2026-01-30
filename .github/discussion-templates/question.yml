@@ -52,7 +52,6 @@ body:
       label: Which SDK or tool are you using? (if any)
       options:
         - TypeScript SDK
-        - Python SDK
         - Rust SDK
         - Pyrax CLI
         - REST API
